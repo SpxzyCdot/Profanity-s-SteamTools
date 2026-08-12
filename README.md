@@ -1,4 +1,3 @@
-# I AM REWRITING THE APP ON WINFORM AND WILL SEE IF IT'S WORTH IT :)
 # Profanity's SteamTools
 Features :
 Run in background (doesn't work/didn't test)
