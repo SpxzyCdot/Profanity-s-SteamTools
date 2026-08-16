@@ -1,4 +1,10 @@
 # Profanity's SteamTools
+
+**What is this?**
+
+Profanity Steam Tools is an **OPEN SOURCED** project where it basically lets you get FREE steam games by injecting lua/manifest scripts into steam to locally grant you the game that you may wish for
+
+
 Features :
 Run in background (doesn't work/didn't test)
 Run on system startup (didn't test)
